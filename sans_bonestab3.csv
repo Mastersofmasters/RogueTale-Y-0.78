@@ -1,4 +1,6 @@
 ,,,,,,,,,,,
+0,SetMaxHp,120,,
+0,Sound,Playerheal,,
 ,,,,,,,,,,,
 0,SansLegs,Sitting,,,,,,,,,
 0,SansTorso,Sitting,,,,,,,,,
@@ -47,11 +49,11 @@
 0,GasterBlaster,0,0,0,425,306,180,0.333,0.26666;,,
 0,GasterBlaster,0,0,0,425,306,180,0.333,0.26666;,,
 0,GasterBlaster,0,0,0,425,306,180,0.333,0.26666;,,
-0.4,BoneVRepeat,128,360,45,0,150,12,133;,3,,
-0.4,BoneVRepeat,128,360,45,0,150,12,133;,3,,
-0.4,BoneVRepeat,128,360,45,0,150,12,133;,3,,
-0.4,BoneVRepeat,128,360,45,0,150,12,133;,3,,
-0.4,BoneVRepeat,128,360,45,0,150,12,133;,3,,
+0.4,BoneVRepeat,128,360,45,0,150,12,133;,5,,
+0.4,BoneVRepeat,128,360,45,0,150,12,133;,5,,
+0.4,BoneVRepeat,128,360,45,0,150,12,133;,5,,
+0.4,BoneVRepeat,128,360,45,0,150,12,133;,5,,
+0.4,BoneVRepeat,128,360,45,0,150,12,133;,5,,
 0,GasterBlaster,0,0,0,425,306,180,0.333,0.26666;,,
 0,GasterBlaster,0,0,0,425,306,180,0.333,0.26666;,,
 0.8,BlackScreen,1,,,,;,,,,,
@@ -232,7 +234,7 @@
 0,sansText,i only had one eye open,,,,,,,,,
 0,Sanshead,closed,,,,,,,,,
 0,SansText,for my full POWER!!!!!!,,,,,,,,,
-2,SansHead,BlueEye,,,,,,,,,
+0,DamagePlayer,-29,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
@@ -869,5 +871,6 @@
 0,SansAnimation,Idle,,,,,,,,,
 
 3,EndAttack,,
+
 
 
