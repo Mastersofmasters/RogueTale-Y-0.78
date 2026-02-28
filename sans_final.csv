@@ -562,8 +562,16 @@ $Wait2,SET,LastDir,$Direction,,,,,,
 0,ADD,EndX3,$EndX3,320,,,,,
 0,ADD,EndY3,$EndY3,306,,,,,
 0,ADD,Ang3,$Ang3,180,,,,,
+0,sansx,220,,,,,,,
+0,CombatZoneResize,241,226,406,391
+0,HeartTeleport,320,304,,,,,,
+0,HeartMode,0,,,,,,,
+0,SansText, Fine You      WIN
+0,SansText, I GuESS..,,,
+0,SansHead,LookLeft,,,
+0,SansBody,Shrug,,,
+3,endattack,,,,,,,,
 
-2,endattack,,,,,,,,
 
 
 
